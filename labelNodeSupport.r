@@ -8,7 +8,7 @@
 #Fist we need to open some necessary libraries
 library(ape)
 library(geiger)
-library(phyloch) # Can be ignored if using the conformat=simple option in MrBayes sumt command
+#library(phyloch) # Can be ignored if using the conformat=simple option in MrBayes sumt command
 
 # The getAllSubTrees function below is a necessary subfunction that atomizes a tree into each 
 # individual subclade and was provided compliments of Luke Harmon. [RG]
